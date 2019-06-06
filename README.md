@@ -1,6 +1,8 @@
 # Wikileaks' Top Ten Bitcoin donors.
 As part of Big Data Processing module in Msc. Big Data Science course, a final coursework was delivered. The goal was to apply the techniques covered in Big Data Processing to analyse a subset of bitcoin blockchain, ranging from the first mined bitcoin in 2009 to December 2014. Several jobs were created to perform multiple types of computation to obtain the Top Ten Wikileaks' bitcoin donors.
 
+Hadoop MapReduce and Spark we used in this exercice as an aim to make a comparisson between both techniques.
+
 ## Dataset Overview
 
 A subset of the blockchain (Blocks 1 to ~330000) was collected and saved to HDFS server. These blocks were changed from their original raw json format by splitting them into five comma delimited csv files: blocks.csv; transactions.csv; coingen.csv (Coin Generations/Mined coins); vin.csv; and vout.csv. To explain what these files contain a description and schema can be found below:
