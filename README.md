@@ -1,7 +1,7 @@
 # Wikileaks' Top Ten Bitcoin donors.
 As part of Big Data Processing module in Msc. Big Data Science course, a final coursework was delivered. The goal was to apply the techniques covered in Big Data Processing to analyse a subset of bitcoin blockchain, ranging from the first mined bitcoin in 2009 to December 2014. Several jobs were created to perform multiple types of computation to obtain the Top Ten Wikileaks' bitcoin donors.
 
-Hadoop MapReduce and Spark we used in this exercice as an aim to make a comparisson between both techniques.
+Hadoop MapReduce and Spark we used in this exercice as an aim to make a comparisson between both techniques. Both developed using its corresponding Python libraries/modules.
 
 ## Dataset Overview
 
