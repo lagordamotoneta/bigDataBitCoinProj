@@ -1,2 +1,2 @@
 # bigDataBitCoinProj
-Get top ten Wikipedia's bitcoin donators using Spark and Hadoop MapReduce 
+Get top ten Wikileaks' bitcoin donators using Spark and Hadoop MapReduce 
